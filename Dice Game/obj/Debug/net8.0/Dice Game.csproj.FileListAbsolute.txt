@@ -1,0 +1,19 @@
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\bin\Debug\net8.0\Dice Game.exe
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\bin\Debug\net8.0\Dice Game.deps.json
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\bin\Debug\net8.0\Dice Game.runtimeconfig.json
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\bin\Debug\net8.0\Dice Game.dll
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\bin\Debug\net8.0\Dice Game.pdb
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\bin\Debug\net8.0\SHA3.Net.dll
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\obj\Debug\net8.0\Dice Game.csproj.AssemblyReference.cache
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\obj\Debug\net8.0\Dice Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\obj\Debug\net8.0\Dice Game.AssemblyInfoInputs.cache
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\obj\Debug\net8.0\Dice Game.AssemblyInfo.cs
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\obj\Debug\net8.0\Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\obj\Debug\net8.0\Dice Game.csproj.Up2Date
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\obj\Debug\net8.0\Dice Game.dll
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\obj\Debug\net8.0\refint\Dice Game.dll
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\obj\Debug\net8.0\Dice Game.pdb
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\obj\Debug\net8.0\Dice Game.genruntimeconfig.cache
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\obj\Debug\net8.0\ref\Dice Game.dll
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\bin\Debug\net8.0\Konscious.Security.Cryptography.Blake2.dll
+C:\Users\NoireSka\Desktop\iTransition\Dice Game\bin\Debug\net8.0\BouncyCastle.Crypto.dll
